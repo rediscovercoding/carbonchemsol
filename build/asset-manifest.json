@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4591527.css",
+    "main.js": "/static/js/main.1afef74c.js",
+    "static/media/background1.jpg": "/static/media/background1.7be33c975c3ba37e9cb3.jpg",
+    "static/media/Koustubh.jpg": "/static/media/Koustubh.e8279edfd701c6e53d7d.jpg",
+    "static/media/Chris.jpg": "/static/media/Chris.131dde57ee7741d4bef6.jpg",
+    "static/media/Sandra.jpg": "/static/media/Sandra.4f923fbed227bbc84dc2.jpg",
+    "index.html": "/index.html",
+    "main.e4591527.css.map": "/static/css/main.e4591527.css.map",
+    "main.1afef74c.js.map": "/static/js/main.1afef74c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4591527.css",
+    "static/js/main.1afef74c.js"
+  ]
+}
